@@ -104,8 +104,6 @@ Claude identified six gaps: credential store (zero tests), Canadian/Brazilian ra
 
 **13. Remove the hardcoded URL**
 
-> jellyfin.homenook.xyz has been hardcoded
-
 ---
 
 **14. Write the README**
@@ -120,4 +118,4 @@ Claude identified six gaps: credential store (zero tests), Canadian/Brazilian ra
 
 ---
 
-← Back to [README.md](README.md)
+← Back to [README.md](README.MD)
