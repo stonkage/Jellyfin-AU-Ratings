@@ -6,7 +6,7 @@ Interactive tool to browse, convert, and manually manage parental
 ratings in your Jellyfin library using Australian (ACB) classifications.
 
 Usage:
-    python jellyfin_au_ratings.py
+    python3 jellyfin_au_ratings.py
 """
 
 import os
